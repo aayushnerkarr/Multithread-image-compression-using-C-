@@ -6,7 +6,7 @@
 *Mentor - Neela Santosh.*<br>
 
 # `Mutlithread Image Compression In C++`
-This project demonstrates real-time image and video compression using OpenCV in C++. It provides an interactive application that allows the user to choose between image or video compression, specify the compression level, and visualize the results.
+This project demonstrates real-time image using OpenCV in C++. It provides user to choose image compression, specify the compression level, and visualize the results
 
 # `Image Compression:`
 - Allows the user to select an image file for compression.
